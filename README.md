@@ -1,2 +1,2 @@
 # sudoku
-a python to solve sudoku problem
+A python program to solve sudoku problem in backtracking method.
